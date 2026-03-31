@@ -1,0 +1,20 @@
+{
+    "name": "investigation1",
+    "timeline": [
+        {
+            "time": "2026-03-30T09:31:11.305798",
+            "event": "Analyzed text with hash edc2cc1edc1ce22996793ecec866d6bbd6e9e0e1837e27b66f82757ec034f840"
+        }
+    ],
+    "iocs": {
+        "ip": [
+            "185.220.101.1"
+        ],
+        "domain": [
+            "login-secure-update.com"
+        ],
+        "sha256": [
+            "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+        ]
+    }
+}

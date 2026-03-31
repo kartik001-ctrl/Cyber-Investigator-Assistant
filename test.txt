@@ -1,0 +1,17 @@
+# Suspicious IPs
+185.220.101.3
+45.33.32.156
+185.62.189.11
+212.83.181.101
+91.121.38.48
+
+# Suspicious Domains
+login-secure-update.com
+paypal-verification-alert.net
+update-account-security.com
+secure-paypal-login.net
+free-gift-card.com
+
+# Sample file hashes (SHA256) - optional
+d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2
+e3e3e3e3e3e3e3e3e3e3e3e3e3e3e3e3e3e3e3e3e3e3e3e3e3e3e3e3e3e3e3e3
