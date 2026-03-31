@@ -1,6 +1,6 @@
 # 🔍 TraceFusion CLI
 
-TraceFusion is a Kali Linux-based OSINT & Threat Intelligence CLI tool designed to help analysts quickly extract, analyze, and enrich Indicators of Compromise (IOCs).
+TraceFusion is a Kali Linux-based OSINT & Threat Intelligence CLI tool designed to help analysts quickly extract, analyze, and enrich Indicators of Compromise (IOCs), and forensic tracking.
 
 ---
 
