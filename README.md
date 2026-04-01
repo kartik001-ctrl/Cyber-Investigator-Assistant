@@ -43,7 +43,3 @@ Threat intelligence data
 Evidence SHA256 hash
 
 Case file saved in /cases/
-
-
-## Author
-TeamredX
